@@ -1,280 +1,354 @@
-# Awesome-People-Analytics-Platform
+<div align="center">
 
-Edit
-Top People Analytics Platform Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome People Analytics Platform Banner" width="100%" />
+</p>
 
-Curated List of SaaS Products & Open-Source GitHub Projects
-Focused on Workforce Intelligence, HR Analytics, Employee Insights, Attrition, Diversity, Compensation, Performance & Organizational Analytics
-Last updated: September 2026
+# 🚀 Awesome People Analytics Platform 🌟
 
-This repository tracks notable SaaS/hosted platforms and open-source projects for People Analytics. These tools help HR leaders, people teams, executives, analysts, and data teams collect, integrate, analyze, visualize, and interpret workforce data across HRIS, payroll, recruiting, performance management, learning, engagement, and employee survey systems.
+**Curated ecosystem of SaaS platforms, open-source projects, data architectures, and AI tools for workforce intelligence, HR analytics, and talent analytics.**
 
-Typical capabilities include workforce planning, headcount analytics, attrition and retention analysis, diversity and inclusion reporting, compensation analytics, organizational network analysis, performance analytics, recruiting analytics, absenteeism analysis, skills intelligence, employee engagement measurement, productivity insights, workforce forecasting, and executive dashboards.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-People-Analytics-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-People-Analytics-Platform?style=flat-square&logo=github&color=gold" alt="Stars" /></a> <a href="https://github.com/ishandutta2007/Awesome-People-Analytics-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-People-Analytics-Platform?style=flat-square&logo=github&color=blue" alt="Forks" /></a> <a href="https://github.com/ishandutta2007/Awesome-People-Analytics-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-People-Analytics-Platform?style=flat-square&color=green" alt="License" /></a> <a href="https://github.com/ishandutta2007/Awesome-People-Analytics-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-Examples include Visier, One Model, ChartHop, Crunchr, Sage People Analytics, Workday People Analytics, Microsoft Viva Insights, HiBob Analytics, Tableau HR Analytics, and Qualtrics People Analytics.
+<p align="center">
+  <a href="#-table-of-contents">📑 Table of Contents</a> •
+  <a href="#-saashosted-platforms">☁️ SaaS Platforms</a> •
+  <a href="#-open-source-github-projects-ranked-by-stars-">💻 Open-Source Projects</a> •
+  <a href="#️-recommended-architecture--frameworks">🏗️ Architecture</a> •
+  <a href="#-how-to-contribute">🤝 Contribute</a> •
+  <a href="#-star-history">📈 Star History</a>
+</p>
 
-Open-source emphasis: This section is heavily expanded with open-source HRMS platforms, people-data warehouses, analytics projects, BI platforms, event analytics systems, data transformation tools, machine-learning frameworks, and self-hosted dashboards. The open-source People Analytics market contains fewer complete turnkey products than the commercial market, but there is a strong ecosystem for building transparent, customizable, and self-hosted workforce intelligence platforms.
+</div>
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-Table of Contents
+## 🎯 Overview & SEO Keywords
 
-SaaS/Hosted Platforms
+> **Keywords**: `people analytics`, `workforce intelligence`, `hr analytics`, `employee turnover prediction`, `talent intelligence`, `headcount planning`, `diversity equity inclusion (DEI) analytics`, `organizational network analysis (ONA)`, `compensation analytics`, `hr data warehouse`, `dbt hr models`, `open source hrms`, `human capital management (HCM)`.
 
-Open-Source GitHub Projects
+This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **People Analytics**. These tools help HR leaders, people operations teams, executives, workforce planners, data analysts, and engineers collect, integrate, analyze, visualize, and model workforce data across HRIS, ATS, payroll, engagement, performance, and employee survey systems.
 
-Additional Strong Open-Source Options
+### 📊 Core Analytical Capabilities
+- 👥 **Headcount & Capacity Planning**: Forecasting headcount trends, departmental growth, and labor budgets.
+- 📉 **Attrition & Retention Modeling**: Predictive turnover risks, survival analysis, and flight-risk drivers.
+- 🌈 **Diversity, Equity & Inclusion (DEI)**: Representation metrics, promotion velocity, and pay parity analysis.
+- 💵 **Compensation & Rewards Analytics**: Compa-ratios, salary bands, equity distribution, and market benchmarking.
+- 🕸️ **Organizational Network Analysis (ONA)**: Mapping communication topologies, collaboration silos, and key influencers.
+- 🎯 **Performance & Goal Alignment**: OKR tracking, review distributions, 360 feedback, and continuous enablement.
+- 💬 **Employee Experience & Sentiment**: eNPS tracking, pulse survey NLP analysis, and lifecycle feedback loops.
+- 🏛️ **Skills Intelligence & Internal Mobility**: Skills taxonomy mapping, talent marketplaces, and career pathways.
 
-How to Contribute
+---
 
-Disclaimer
+## 📑 Table of Contents
+- [🎯 Overview & SEO Keywords](#-overview--seo-keywords)
+- [☁️ SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects (Ranked by Stars ⭐)](#-open-source-github-projects-ranked-by-stars-)
+- [🏗️ Recommended Architecture & Frameworks](#️-recommended-architecture--frameworks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer & Ethical People Analytics](#️-disclaimer--ethical-people-analytics)
 
-## SaaS/Hosted Platforms
+---
 
-| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **Visier** | Enterprise people analytics platform that integrates workforce and business data to provide standardized workforce metrics, workforce intelligence, visual analytics, and answers to complex people questions. | Starts at **$4.50 – $5.00 / employee / month** (billed annually; minimum contract typically starts at ~$25,000/year for enterprise deployment). | **30-day free trial** for the Visier Alpine platform sandbox (includes pre-built content, 1 workspace, and sample or custom data upload; no credit card required; no permanent free tier). |
-| **One Model** | People analytics and workforce data platform focused on integrating HR data from multiple systems into a unified workforce data model, analytics environment, and reporting ecosystem. | Starts at **$3.00 – $6.00 / employee / month** (Essentials edition typically starts at ~$30,000 – $45,000/year for mid-market up to 2,500 employees). | **14 to 30-day guided POC / sandbox trial** during enterprise evaluation (limited to sample data and up to 5 administrative seats; no permanent free tier). |
-| **ChartHop** | People operations and workforce planning platform combining organizational charts, headcount planning, compensation data, employee information, and people analytics. | Starts at **$3.50 / employee / month** for ChartHop Basic/Charts (Headcount Planning and Compensation modules start at ~$8.00 – $10.00 / employee / month with ~$9,000 annual minimum). | **14-day free trial** with full platform access; ChartHop Basic offers a **free forever tier** for small teams up to **35 employees** (org charts, basic profiles, and direct reporting structure). |
-| **Crunchr** | Workforce analytics platform focused on workforce intelligence, HR reporting, diversity analytics, talent insights, and strategic people decision-making. | Starts at **$4.49 / user / month** for small business tiers (People Analytics enterprise tier starts at ~$2.50 – $4.50 / employee / month billed annually). | **7-day free trial** for standard business modules / **14-day guided analytics sandbox** (limited to sample employee datasets and up to 3 test users; no permanent free tier). |
-| **Sage People** | Cloud HR and people management platform with workforce reporting and analytics capabilities for employee data, workforce trends, and HR operations. | Starts at **$6.50 / employee / month** for Sage HR core module (Sage People enterprise edition starts at ~$12.00 / employee / month with implementation starting at ~$25,000 – $35,000). | **30-day free trial** for Sage HR cloud module (full access to core HR, leave management, and employee records without credit card; no permanent free tier). |
-| **Workday People Analytics** | Workforce analytics capabilities integrated with Workday's HR and finance ecosystem, supporting workforce reporting, organizational analysis, talent insights, and people decision-making. | Starts at **$34.00 – $42.00 / employee / month** (FSE worker basis as part of Workday HCM subscription; enterprise annual contracts typically start at $100,000+/year). | **30-day free trial** for Workday Adaptive Planning sandbox environment (includes sample financial and workforce data modeling; core People Analytics evaluated via guided interactive tours; no permanent free tier). |
-| **Microsoft Viva Insights** | Workplace analytics platform providing organizational and work-pattern insights based on aggregated collaboration data, supporting productivity, wellbeing, and organizational effectiveness analysis. | **$4.00 / user / month** for Viva Insights standalone (full Microsoft Viva Suite available at **$12.00 / user / month** with annual commitment). | **Free forever tier**: Personal Insights is included at $0 with Microsoft 365 / Office 365 enterprise licenses (personal wellbeing, focus time, quiet hours). Premium features offer a **30-day free trial** (up to 25 user licenses via M365 admin center). |
-| **HiBob** | Modern HR platform with people analytics and workforce reporting capabilities covering employee information, organizational metrics, engagement, compensation, and workforce trends. | Starts at **$8.00 – $10.00 / employee / month** (base Bob platform with analytics; minimum annual contract starting around $3,000 – $5,000/year). | **14-day interactive guided trial tour** and sandbox environment upon request (access to core HR analytics, sample headcount reports, and employee profile workflows; no permanent free tier). |
-| **Tableau** | Business intelligence and analytics platform widely used to build custom HR and people analytics dashboards for workforce, diversity, compensation, recruitment, and retention analysis. | Starts at **$15.00 / user / month** for Tableau Viewer ($180/year billed annually); Tableau Explorer at **$42.00 / user / month**; Tableau Creator at **$75.00 / user / month**. | **Free forever tier**: Tableau Public is 100% free with limits of **10 GB storage** and **10 million rows per dataset** (publicly viewable dashboards). Commercial Tableau Cloud offers a **14-day free trial** with full Creator features (no credit card required). |
-| **Qualtrics Employee Experience** | Employee experience and people analytics platform supporting employee surveys, engagement measurement, feedback analytics, experience management, and workforce insights. | Starts at **$125.00 / month** ($1,500/year) for individual research seats (EmployeeXM enterprise platform starts at ~$5.00 / employee / month or ~$25,000/year base contract). | **Free forever tier** with limits of **3 active surveys**, **100 responses per survey**, and **8 question types**. Paid research/XM tiers offer a **30-day free trial** with up to 1,000 responses and advanced reporting templates. |
-| **SAP SuccessFactors Workforce Analytics** | Enterprise workforce analytics capabilities integrated with SAP human capital management systems for workforce planning, reporting, talent analytics, and strategic HR analysis. | Starts at **$6.00 – $12.00 / employee / month** for core HR/analytics bundles (full enterprise suite spans $25.00 – $38.00 / employee / month). | **30-day free trial** for SAP SuccessFactors HCM suite (shared cloud environment pre-populated with workforce sample data and guided scenario workflows; no permanent free tier). |
-| **Oracle Fusion HCM Analytics** | Cloud HCM analytics ecosystem providing workforce reporting, talent analytics, workforce trends, and HR intelligence. | Starts at **$15.00 / user / month** as Fusion Data Intelligence add-on (HCM Cloud core starting at ~$15.00 – $38.00 / employee / month; Creator analytics at ~$300 / user / month). | **30-day free trial** via Oracle Cloud Free Tier with **$300 in free cloud credits** and access to Always Free cloud analytics database services (no permanent free tier for HCM Analytics). |
-| **UKG Pro** | Human capital management platform with workforce analytics and reporting capabilities across employee data, workforce management, payroll, attendance, and talent processes. | Starts at **$26.00 – $41.00 / employee / month** (bundled with core HCM, payroll, and workforce analytics; minimum annual contracts apply). | **14-day guided evaluation sandbox** provided during vendor proof-of-concept (includes sample HR data and pre-built compliance/retention dashboards; no permanent free tier). |
-| **ADP DataCloud** | Workforce data and analytics ecosystem using aggregated workforce information and benchmarking capabilities to support HR decision-making and labor-market insights. | Starts at **$10.00 – $20.00 / employee / month** (included in ADP Workforce Now mid-tier packages; executive benchmarking add-ons start at ~$3.00 – $5.00 / employee / month). | **30-day interactive self-guided demo environment** with preloaded compensation and turnover benchmark data across 30M+ employee records (no permanent free tier). |
-| **Culture Amp** | Employee experience platform focused on engagement, employee feedback, performance, retention, and people analytics. | Starts at **$4.00 – $4.50 / employee / month** for single module (e.g., Engage or Perform; minimum annual contract of ~$4,500/year; 3-module bundle at ~$11.00 – $14.00 / employee / month). | **14 to 30-day pilot program** for enterprise evaluations (enables running 1 test pulse survey with up to 50 employees and generating sample engagement reports; no permanent free tier). |
-| **Lattice** | People success platform providing performance management, engagement measurement, compensation workflows, HR analytics, and people insights. | Starts at **$8.00 / seat / month** for Goals/OKRs or **$11.00 / seat / month** for Performance & Analytics (modules bundle at ~$19.00 – $25.00 / seat / month; minimum annual contract of $4,000/year). | **14-day interactive test workspace** and guided pilot sandbox upon sales request (includes sample review cycles, 1-on-1 meeting templates, and people analytics dashboards; no permanent free tier). |
-| **Betterworks** | Performance management and people enablement platform supporting goals, feedback, performance insights, and workforce analytics. | Starts at **$8.00 / user / month** for Goals & Performance (billed annually; comprehensive Enterprise suite starts at ~$15.00 / user / month). | **14-day pilot sandbox** available upon consultation (supports up to 25 test users, OKR tracking, continuous feedback loops, and basic manager analytics; no permanent free tier). |
-| **Eightfold AI** | Talent intelligence platform using AI for workforce skills, talent mobility, recruiting, workforce planning, and people intelligence. | Starts at **$7.00 – $10.00 / employee / month** (for mid-to-large enterprises with 1,000+ employees; annual minimum contract typically ~$50,000+/year). | **30-day proof-of-concept (POC) sandbox** during enterprise evaluation (allows ingestion of sample employee profiles to test AI skills matching and career pathing algorithms; no permanent free tier). |
-| **Gloat** | Talent marketplace and workforce intelligence platform focused on skills visibility, internal mobility, talent deployment, and workforce analytics. | Starts at **$6.00 – $8.00 / employee / month** (billed annually for enterprise workforce deployments; typical minimum commitment ~$40,000 – $60,000/year). | **30-day structured proof-of-concept (POC) pilot** (includes skills ontology setup for a test department of up to 100 employees and internal opportunity matching; no permanent free tier). |
-| **Fuel50** | Talent marketplace and career intelligence platform supporting workforce skills, internal mobility, career development, and talent analytics. | Starts at **$4.50 – $7.00 / employee / month** (billed annually; scales based on employee volume with typical enterprise entry contracts at ~$30,000/year). | **30-day sandbox pilot** during sales evaluation (includes sample career architecture mapping, benchmarking tools, and career pathway simulations for up to 50 users; no permanent free tier). |
+## ☁️ SaaS/Hosted Platforms
 
-Open-Source GitHub Projects
+> 📊 **Sector Market Size & Industry Structure**: The global People Analytics and Workforce Intelligence software market is estimated at **~$4.2 Billion in 2026** (projected to reach **$7.5+ Billion by 2030** at a CAGR of ~14.5%, within the broader $40B+ HR tech industry). The sector is **moderately fragmented**: mega-cap enterprise cloud incumbents (Microsoft, Oracle, SAP, Workday, ADP) hold strong foundational HRIS market share, while high-growth, best-of-breed specialized vendors (Visier, One Model, Culture Amp, Lattice, Eightfold AI, ChartHop) capture substantial share for cross-platform data modeling, AI talent intelligence, and employee experience analytics.
 
-Frappe HR
-Major open-source HR and payroll platform covering employee lifecycle management, attendance, leave, performance, recruitment, payroll, expenses, and reporting. Its structured HR data can serve as the operational foundation for a self-hosted People Analytics environment.
+| Platform | Description | Company Size / Valuation | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **Microsoft (Microsoft Viva Insights)** | Workplace analytics platform providing organizational and work-pattern insights based on aggregated collaboration data, supporting productivity, wellbeing, and organizational effectiveness analysis. | **$3.1T+ Market Cap** ($245B+ Annual Revenue) | **$4.00 / user / month** for Viva Insights standalone (full Microsoft Viva Suite available at **$12.00 / user / month** with annual commitment). | **Free forever tier**: Personal Insights is included at $0 with Microsoft 365 / Office 365 enterprise licenses (personal wellbeing, focus time, quiet hours). Premium features offer a **30-day free trial** (up to 25 user licenses via M365 admin center). |
+| **Oracle (Oracle Fusion HCM Analytics)** | Cloud HCM analytics ecosystem providing workforce reporting, talent analytics, workforce trends, and HR intelligence. | **$400B+ Market Cap** ($53B+ Annual Revenue) | Starts at **$15.00 / user / month** as Fusion Data Intelligence add-on (HCM Cloud core starting at ~$15.00 – $38.00 / employee / month; Creator analytics at ~$300 / user / month). | **30-day free trial** via Oracle Cloud Free Tier with **$300 in free cloud credits** and access to Always Free cloud analytics database services (no permanent free tier for HCM Analytics). |
+| **Salesforce / Tableau (Tableau)** | Business intelligence and analytics platform widely used to build custom HR and people analytics dashboards for workforce, diversity, compensation, recruitment, and retention analysis. | **$280B+ Market Cap** ($35B+ Annual Revenue; acquired for $15.7B) | Starts at **$15.00 / user / month** for Tableau Viewer ($180/year billed annually); Tableau Explorer at **$42.00 / user / month**; Tableau Creator at **$75.00 / user / month**. | **Free forever tier**: Tableau Public is 100% free with limits of **10 GB storage** and **10 million rows per dataset** (publicly viewable dashboards). Commercial Tableau Cloud offers a **14-day free trial** with full Creator features (no credit card required). |
+| **SAP (SAP SuccessFactors Workforce Analytics)** | Enterprise workforce analytics capabilities integrated with SAP human capital management systems for workforce planning, reporting, talent analytics, and strategic HR analysis. | **$260B+ Market Cap** ($34B+ Annual Revenue) | Starts at **$6.00 – $12.00 / employee / month** for core HR/analytics bundles (full enterprise suite spans $25.00 – $38.00 / employee / month). | **30-day free trial** for SAP SuccessFactors HCM suite (shared cloud environment pre-populated with workforce sample data and guided scenario workflows; no permanent free tier). |
+| **ADP (ADP DataCloud)** | Workforce data and analytics ecosystem using aggregated workforce information and benchmarking capabilities to support HR decision-making and labor-market insights. | **$115B+ Market Cap** ($19B+ Annual Revenue) | Starts at **$10.00 – $20.00 / employee / month** (included in ADP Workforce Now mid-tier packages; executive benchmarking add-ons start at ~$3.00 – $5.00 / employee / month). | **30-day interactive self-guided demo environment** with preloaded compensation and turnover benchmark data across 30M+ employee records (no permanent free tier). |
+| **Workday (Workday People Analytics)** | Workforce analytics capabilities integrated with Workday's HR and finance ecosystem, supporting workforce reporting, organizational analysis, talent insights, and people decision-making. | **$70B+ Market Cap** ($7.3B+ Annual Revenue) | Starts at **$34.00 – $42.00 / employee / month** (FSE worker basis as part of Workday HCM subscription; enterprise annual contracts typically start at $100,000+/year). | **30-day free trial** for Workday Adaptive Planning sandbox environment (includes sample financial and workforce data modeling; core People Analytics evaluated via guided interactive tours; no permanent free tier). |
+| **UKG (UKG Pro)** | Human capital management platform with workforce analytics and reporting capabilities across employee data, workforce management, payroll, attendance, and talent processes. | **~$35B Valuation** ($4.3B+ Annual Revenue) | Starts at **$26.00 – $41.00 / employee / month** (bundled with core HCM, payroll, and workforce analytics; minimum annual contracts apply). | **14-day guided evaluation sandbox** provided during vendor proof-of-concept (includes sample HR data and pre-built compliance/retention dashboards; no permanent free tier). |
+| **Sage Group (Sage People)** | Cloud HR and people management platform with workforce reporting and analytics capabilities for employee data, workforce trends, and HR operations. | **~$14B Market Cap** ($2.8B+ Annual Revenue) | Starts at **$6.50 / employee / month** for Sage HR core module (Sage People enterprise edition starts at ~$12.00 / employee / month with implementation starting at ~$25,000 – $35,000). | **30-day free trial** for Sage HR cloud module (full access to core HR, leave management, and employee records without credit card; no permanent free tier). |
+| **Qualtrics (Qualtrics Employee Experience)** | Employee experience and people analytics platform supporting employee surveys, engagement measurement, feedback analytics, experience management, and workforce insights. | **~$12.5B Valuation** ($1.5B+ Annual Revenue) | Starts at **$125.00 / month** ($1,500/year) for individual research seats (EmployeeXM enterprise platform starts at ~$5.00 / employee / month or ~$25,000/year base contract). | **Free forever tier** with limits of **3 active surveys**, **100 responses per survey**, and **8 question types**. Paid research/XM tiers offer a **30-day free trial** with up to 1,000 responses and advanced reporting templates. |
+| **Lattice** | People success platform providing performance management, engagement measurement, compensation workflows, HR analytics, and people insights. | **~$3.0B Valuation** (~$130M ARR) | Starts at **$8.00 / seat / month** for Goals/OKRs or **$11.00 / seat / month** for Performance & Analytics (modules bundle at ~$19.00 – $25.00 / seat / month; minimum annual contract of $4,000/year). | **14-day interactive test workspace** and guided pilot sandbox upon sales request (includes sample review cycles, 1-on-1 meeting templates, and people analytics dashboards; no permanent free tier). |
+| **HiBob (Bob)** | Modern HR platform with people analytics and workforce reporting capabilities covering employee information, organizational metrics, engagement, compensation, and workforce trends. | **~$2.7B Valuation** (~$100M ARR) | Starts at **$8.00 – $10.00 / employee / month** (base Bob platform with analytics; minimum annual contract starting around $3,000 – $5,000/year). | **14-day interactive guided trial tour** and sandbox environment upon request (access to core HR analytics, sample headcount reports, and employee profile workflows; no permanent free tier). |
+| **Eightfold AI** | Talent intelligence platform using AI for workforce skills, talent mobility, recruiting, workforce planning, and people intelligence. | **~$2.1B Valuation** (~$100M ARR) | Starts at **$7.00 – $10.00 / employee / month** (for mid-to-large enterprises with 1,000+ employees; annual minimum contract typically ~$50,000+/year). | **30-day proof-of-concept (POC) sandbox** during enterprise evaluation (allows ingestion of sample employee profiles to test AI skills matching and career pathing algorithms; no permanent free tier). |
+| **Culture Amp** | Employee experience platform focused on engagement, employee feedback, performance, retention, and people analytics. | **~$1.5B Valuation** (~$120M ARR) | Starts at **$4.00 – $4.50 / employee / month** for single module (e.g., Engage or Perform; minimum annual contract of ~$4,500/year; 3-module bundle at ~$11.00 – $14.00 / employee / month). | **14 to 30-day pilot program** for enterprise evaluations (enables running 1 test pulse survey with up to 50 employees and generating sample engagement reports; no permanent free tier). |
+| **Visier** | Enterprise people analytics platform that integrates workforce and business data to provide standardized workforce metrics, workforce intelligence, visual analytics, and answers to complex people questions. | **~$1.0B+ Valuation** (~$100M ARR) | Starts at **$4.50 – $5.00 / employee / month** (billed annually; minimum contract typically starts at ~$25,000/year for enterprise deployment). | **30-day free trial** for the Visier Alpine platform sandbox (includes pre-built content, 1 workspace, and sample or custom data upload; no credit card required; no permanent free tier). |
+| **Gloat** | Talent marketplace and workforce intelligence platform focused on skills visibility, internal mobility, talent deployment, and workforce analytics. | **~$1.0B Valuation** (~$50M ARR) | Starts at **$6.00 – $8.00 / employee / month** (billed annually for enterprise workforce deployments; typical minimum commitment ~$40,000 – $60,000/year). | **30-day structured proof-of-concept (POC) pilot** (includes skills ontology setup for a test department of up to 100 employees and internal opportunity matching; no permanent free tier). |
+| **ChartHop** | People operations and workforce planning platform combining organizational charts, headcount planning, compensation data, employee information, and people analytics. | **~$450M Valuation** (~$25M ARR) | Starts at **$3.50 / employee / month** for ChartHop Basic/Charts (Headcount Planning and Compensation modules start at ~$8.00 – $10.00 / employee / month with ~$9,000 annual minimum). | **14-day free trial** with full platform access; ChartHop Basic offers a **free forever tier** for small teams up to **35 employees** (org charts, basic profiles, and direct reporting structure). |
+| **Betterworks** | Performance management and people enablement platform supporting goals, feedback, performance insights, and workforce analytics. | **~$300M Valuation** (~$35M ARR) | Starts at **$8.00 / user / month** for Goals & Performance (billed annually; comprehensive Enterprise suite starts at ~$15.00 / user / month). | **14-day pilot sandbox** available upon consultation (supports up to 25 test users, OKR tracking, continuous feedback loops, and basic manager analytics; no permanent free tier). |
+| **One Model** | People analytics and workforce data platform focused on integrating HR data from multiple systems into a unified workforce data model, analytics environment, and reporting ecosystem. | **~$120M Valuation** (~$15M ARR) | Starts at **$3.00 – $6.00 / employee / month** (Essentials edition typically starts at ~$30,000 – $45,000/year for mid-market up to 2,500 employees). | **14 to 30-day guided POC / sandbox trial** during enterprise evaluation (limited to sample data and up to 5 administrative seats; no permanent free tier). |
+| **Fuel50** | Talent marketplace and career intelligence platform supporting workforce skills, internal mobility, career development, and talent analytics. | **~$100M Valuation** (~$15M ARR) | Starts at **$4.50 – $7.00 / employee / month** (billed annually; scales based on employee volume with typical enterprise entry contracts at ~$30,000/year). | **30-day sandbox pilot** during sales evaluation (includes sample career architecture mapping, benchmarking tools, and career pathway simulations for up to 50 users; no permanent free tier). |
+| **Crunchr** | Workforce analytics platform focused on workforce intelligence, HR reporting, diversity analytics, talent insights, and strategic people decision-making. | **~$50M Valuation** (~$10M ARR) | Starts at **$4.49 / user / month** for small business tiers (People Analytics enterprise tier starts at ~$2.50 – $4.50 / employee / month billed annually). | **7-day free trial** for standard business modules / **14-day guided analytics sandbox** (limited to sample employee datasets and up to 3 test users; no permanent free tier). |
 
-Horilla
-Free and open-source HR software covering employee management, recruitment, attendance, leave, payroll, and HR workflows, with a growing ecosystem for workforce management and reporting.
+---
 
-ERPNext
-Open-source ERP platform with HR and payroll capabilities that can provide structured workforce, compensation, attendance, and organizational data for custom People Analytics.
+## 💻 Open-Source GitHub Projects (Ranked by Stars ⭐)
 
-Sentrifugo
-Open-source human resource management system supporting employee information, performance appraisal, leave management, recruitment, and HR administration.
+The open-source People Analytics ecosystem enables organizations to construct transparent, customizable, self-hosted, and privacy-compliant workforce intelligence architectures. Below is the curated collection of leading open-source repositories sorted strictly in descending order by **GitHub Star Count**:
 
-OrangeHRM Open Source
-Open-source HR management platform providing employee information management, leave, recruitment, performance, attendance, and reporting capabilities.
+### 🔹 [PyTorch](https://github.com/pytorch/pytorch) [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social&color=white)](https://github.com/pytorch/pytorch/stargazers)
 
-OpenHRMS
-Open-source HR and payroll ecosystem built around Odoo, providing employee management, attendance, payroll, recruitment, appraisal, and HR workflow capabilities.
+Open-source machine-learning framework suitable for deep learning, NLP, and predictive models involving workforce skills, talent embeddings, and organizational dynamics.
 
-IceHrm
-Open-source HR management system supporting employee records, leave, attendance, recruitment, and workforce administration.
+### 🔹 [Grafana](https://github.com/grafana/grafana) [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
 
-People Analytics Data Warehouse — dbt + DuckDB
-Purpose-built open-source People Analytics data warehouse that transforms HR data covering employees, absences, payroll, promotions, training, surveys, and recruiting into analytical models and KPI marts for headcount, turnover, absenteeism, internal mobility, promotion equity, learning, and recruitment analytics.
+Open-source visualization and metrics observability platform used to build interactive workforce trend dashboards, headcount monitors, and operational HR KPI walls.
 
-Apache Superset
-Open-source business intelligence and visualization platform suitable for building self-hosted People Analytics dashboards covering headcount, attrition, compensation, diversity, recruiting, and workforce KPIs.
+### 🔹 [Apache Superset](https://github.com/apache/superset) [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
 
-Metabase
-Open-source analytics and dashboard platform that can connect directly to HR data warehouses and provide self-service workforce reporting.
+Modern, enterprise-ready business intelligence web application and visualization platform suitable for self-hosted People Analytics dashboards covering headcount, attrition, diversity, and recruiting metrics.
 
-Grafana
-Open-source visualization platform useful for workforce trend dashboards, time-series headcount analysis, operational HR metrics, and executive reporting.
+### 🔹 [scikit-learn](https://github.com/scikit-learn/scikit-learn) [![GitHub stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers)
 
-Redash
-Open-source data visualization and query platform suitable for building HR and workforce analytics dashboards across multiple data sources.
+Core machine-learning library in Python suitable for employee attrition forecasting, workforce segmentation, clustering, retention modeling, and predictive HR analytics.
 
-Lightdash
-Open-source business intelligence platform designed around modern analytics workflows and semantic data models, suitable for self-service People Analytics.
+### 🔹 [NocoDB](https://github.com/nocodb/nocodb) [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
 
-Evidence
-Open-source code-based analytics platform useful for creating version-controlled workforce analytics reports and interactive HR dashboards.
+Open-source smart spreadsheet-database alternative to Airtable, perfect for HR teams managing employee directories, headcount planning, recruitment pipelines, and custom people workflows.
 
-Rill
-Open-source analytics platform focused on interactive dashboards and operational metrics, suitable for workforce and HR analytics datasets.
+### 🔹 [Pandas](https://github.com/pandas-dev/pandas) [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers)
 
-PostHog
-Open-source product and event analytics platform that can support employee-facing applications, HR portals, internal tools, learning systems, and workforce engagement analytics.
+Foundational open-source Python library for tabular data manipulation, compensation modeling, turnover analysis, demographic slicing, and workforce reporting.
 
-Countly
-Open-source analytics platform for web and mobile applications, useful for tracking engagement with internal HR applications and employee digital experiences.
+### 🔹 [Apache Spark](https://github.com/apache/spark) [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)
 
-Matomo
-Open-source analytics platform suitable for measuring usage of employee portals, HR websites, learning platforms, and internal digital experiences.
+Unified engine for large-scale distributed data processing, ideal for enterprise-scale HR data lakes, longitudinal workforce modeling, and multi-source ETL pipelines.
 
-OpenSearch
-Open-source search and analytics platform suitable for indexing and analyzing workforce data, employee events, HR records, surveys, and operational logs.
+### 🔹 [ClickHouse](https://github.com/ClickHouse/ClickHouse) [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)
 
-Apache Pinot
-Open-source real-time distributed analytics database suitable for high-volume workforce events and interactive analytical queries.
+High-performance open-source columnar analytical database designed for real-time aggregation across billions of employee event logs, time-tracking records, and historical HR metrics.
 
-ClickHouse
-High-performance open-source analytical database suitable for large-scale workforce data, employee events, HR metrics, and historical analytics.
+### 🔹 [Metabase](https://github.com/metabase/metabase) [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)
 
-PostgreSQL
-Mature open-source relational database suitable for storing structured employee, organizational, compensation, performance, and workforce data.
+User-friendly open-source business intelligence and self-service analytics tool that connects directly to HR databases/warehouses for zero-code team reporting.
 
-DuckDB
-Lightweight open-source analytical database particularly useful for local, embedded, and reproducible People Analytics workflows.
+### 🔹 [Apache Airflow](https://github.com/apache/airflow) [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
 
-TimescaleDB
-Open-source PostgreSQL extension suitable for analyzing workforce metrics over time, including headcount, absenteeism, turnover, and workforce capacity.
+Open-source platform to programmatically author, schedule, and monitor complex HR data ingestion pipelines, automated ETL workflows, and KPI mart refreshes.
 
-dbt Core
-Open-source data transformation framework that can create tested and documented People Analytics data models from HRIS, payroll, recruiting, learning, and survey data.
+### 🔹 [Appsmith](https://github.com/appsmithorg/appsmith) [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)
 
-Apache Airflow
-Open-source workflow orchestration platform useful for automating HR data ingestion, transformation, KPI calculations, and scheduled reporting.
+Open-source low-code framework to build internal HR apps, custom people analytics portals, compensation review tools, and employee directory management consoles.
 
-Prefect
-Open-source workflow orchestration framework suitable for building and automating People Analytics pipelines.
+### 🔹 [Polars](https://github.com/pola-rs/polars) [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)
 
-Dagster
-Open-source data orchestration platform that can manage HR data pipelines, workforce transformations, and analytical workflows.
+Blazing-fast open-source DataFrame library implemented in Rust, optimized for processing millions of employee event records, payroll datasets, and workforce transformations in seconds.
 
-Apache NiFi
-Open-source dataflow platform useful for integrating HRIS, payroll, recruiting, learning, survey, and organizational data sources.
+### 🔹 [Apache Kafka](https://github.com/apache/kafka) [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
 
-Meltano
-Open-source data integration and ELT platform that can be used to build HR and People Analytics data pipelines.
+Distributed event-streaming platform engineered for high-throughput, low-latency ingestion of real-time employee lifecycle events, system access logs, and HR events.
 
-Airbyte
-Open-source data integration platform useful for extracting workforce and business data from databases, APIs, SaaS systems, and cloud services.
+### 🔹 [DuckDB](https://github.com/duckdb/duckdb) [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)
 
-Apache Kafka
-Open-source event-streaming platform suitable for real-time employee events, workforce activity streams, and scalable analytics pipelines.
+High-performance, in-process analytical SQL database engine optimized for fast, local, reproducible People Analytics queries, embedded pipelines, and dbt models.
 
-Apache Flink
-Open-source stream-processing framework useful for real-time workforce metrics, employee event processing, and continuous analytics.
+### 🔹 [PostHog](https://github.com/PostHog/posthog) [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
 
-Apache Spark
-Open-source distributed analytics framework suitable for large-scale HR datasets, workforce modelling, compensation analysis, and historical trend analysis.
+Open-source product and user analytics platform that tracks employee interactions across internal HR tools, employee self-service portals, intranets, and onboarding software.
 
-Great Expectations
-Open-source data-quality framework useful for validating People Analytics datasets and maintaining trustworthy workforce metrics.
+### 🔹 [Redash](https://github.com/getredash/redash) [![GitHub stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)
 
-Soda Core
-Open-source data-quality and monitoring framework suitable for detecting quality issues in HR and workforce datasets.
+Open-source data visualization and SQL query platform enabling HR analysts to query various databases, build dashboards, and share people metrics across teams.
 
-OpenMetadata
-Open-source data catalog and governance platform useful for documenting HR analytics datasets, data lineage, metric definitions, and data ownership.
+### 🔹 [Apache Flink](https://github.com/apache/flink) [![GitHub stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers)
 
-DataHub
-Open-source metadata platform useful for cataloging workforce datasets, tracking lineage, and governing People Analytics data assets.
+Open-source stream-processing framework for stateful computations over real-time workforce event streams, time-tracking events, and continuous operational analytics.
 
-Amundsen
-Open-source data discovery and metadata platform suitable for making HR and workforce datasets easier to find and understand.
+### 🔹 [Budibase](https://github.com/Budibase/budibase) [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)
 
-Pandas
-Core open-source Python library widely used for workforce analysis, compensation modelling, attrition analysis, employee segmentation, and HR reporting.
+Open-source low-code platform for creating internal workforce tools, employee self-service forms, approval workflows, and performance tracking interfaces.
 
-Polars
-High-performance open-source DataFrame library useful for large People Analytics datasets and workforce data transformations.
+### 🔹 [Typebot](https://github.com/baptisteArno/typebot.io) [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)
 
-Jupyter
-Open-source interactive computing ecosystem suitable for reproducible HR analytics, workforce research, statistical analysis, and exploratory data analysis.
+Open-source conversational form builder ideal for engaging employee onboarding surveys, pulse feedback collection, HR triage bots, and exit interview forms.
 
-scikit-learn
-Open-source machine-learning library suitable for attrition modelling, workforce segmentation, employee clustering, turnover prediction, and predictive analytics.
+### 🔹 [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 
-PyTorch
-Open-source machine-learning framework suitable for advanced predictive models involving workforce, skills, talent, and organizational data.
+Comprehensive open-source ERP system featuring built-in HR, payroll, attendance, leave management, and expense tracking modules to power people operations.
 
-MLflow
-Open-source machine-learning lifecycle platform useful for managing, evaluating, and deploying workforce prediction models.
+### 🔹 [Matomo](https://github.com/matomo-org/matomo) [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)
 
-Fairlearn
-Open-source toolkit for assessing and improving fairness in machine-learning systems, relevant to sensitive workforce analytics and HR modelling.
+Privacy-first open-source web analytics platform suitable for measuring employee adoption, portal utilization, and documentation engagement on internal company intranets.
 
-Evidently
-Open-source machine-learning evaluation and monitoring platform useful for monitoring predictive workforce models and detecting data drift.
+### 🔹 [MLflow](https://github.com/mlflow/mlflow) [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)
 
-HR Analytics
-GitHub topic ecosystem containing a large collection of open HR analytics repositories, dashboards, notebooks, SQL projects, attrition models, workforce analysis projects, and People Analytics experiments.
+Open-source machine learning lifecycle platform useful for tracking, evaluating, versioning, and deploying workforce prediction models like attrition risk and promotion readiness.
 
-Employee Analytics
-GitHub topic collection containing open projects for employee performance analysis, attrition, retention, compensation, promotions, workforce insights, and interactive analytics dashboards.
+### 🔹 [TimescaleDB](https://github.com/timescale/timescaledb) [![GitHub stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers)
 
-HR Analytics Dashboard Projects
-Collection of community-built open-source HR dashboards covering employee demographics, workforce performance, attrition, hiring, compensation, attendance, and retention analytics.
+Open-source time-series PostgreSQL database engineered to track and analyze historical workforce metrics, headcount changes, absenteeism rates, and workforce capacity trends over time.
 
-HR Analytics — Python and ML
-Open-source HR analytics application using Python and machine learning to analyze employee performance, attrition, retention, diversity, compensation, and department-level workforce trends.
+### 🔹 [Airbyte](https://github.com/airbytehq/airbyte) [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)
 
-Additional Strong Open-Source Options
+Open-source ELT data integration platform with an extensive catalog of connectors to sync workforce data from HRIS, ATS, payroll APIs, and databases into modern data warehouses.
 
-Open-source HR data foundations: Frappe HR, ERPNext, Horilla, OrangeHRM, OpenHRMS, Sentrifugo, and IceHrm can provide the underlying employee and organizational data required for self-hosted People Analytics.
+### 🔹 [Prefect](https://github.com/PrefectHQ/prefect) [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)
 
-Purpose-built People Analytics infrastructure: The People Analytics Data Warehouse project using dbt and DuckDB is particularly relevant for organizations seeking an open architecture specifically designed around workforce KPIs such as headcount, turnover, absenteeism, internal mobility, promotion equity, training, and recruiting.
+Modern Python workflow orchestration framework for automating HR data extraction, ML-driven attrition predictions, and scheduled workforce reporting.
 
-Workforce dashboards and BI: Apache Superset, Metabase, Lightdash, Redash, Evidence, Rill, and Grafana can be used to create self-hosted executive and HR dashboards.
+### 🔹 [PostgreSQL](https://github.com/postgres/postgres) [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers)
 
-Data warehouses and analytical storage: PostgreSQL, DuckDB, ClickHouse, TimescaleDB, and Apache Pinot can store and query workforce data at different scales.
+Powerful, open-source object-relational database system serving as a reliable transactional and relational foundation for employee records, organizational trees, and compensation tables.
 
-HR data integration: Airbyte, Meltano, Apache NiFi, Apache Airflow, Prefect, Dagster, and Apache Kafka can automate the collection and processing of data from HRIS, payroll, ATS, LMS, survey, and business systems.
+### 🔹 [NetworkX](https://github.com/networkx/networkx) [![GitHub stars](https://img.shields.io/github/stars/networkx/networkx?style=social&color=white)](https://github.com/networkx/networkx/stargazers)
 
-Semantic modelling: dbt Core provides a strong open-source foundation for defining consistent workforce metrics and transforming fragmented HR data into reusable analytical models.
+Python library for the creation, manipulation, and study of complex networks, widely used for Organizational Network Analysis (ONA) to assess employee collaboration and influence.
 
-Data quality and trust: Great Expectations and Soda Core can validate workforce data before it is used in executive dashboards, retention models, or strategic workforce decisions.
+### 🔹 [Formbricks](https://github.com/formbricks/formbricks) [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
 
-Data discovery and governance: OpenMetadata, DataHub, and Amundsen can catalog HR analytics datasets and document lineage, ownership, and metric definitions.
+Open-source survey and experience management suite suitable for running privacy-compliant employee Net Promoter Score (eNPS), satisfaction surveys, and pulse feedback loops.
 
-Employee engagement analytics: PostHog, Countly, and Matomo can support analytics for employee-facing digital platforms, internal HR applications, and engagement workflows.
+### 🔹 [Dagster](https://github.com/dagster-io/dagster) [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)
 
-Predictive People Analytics: pandas, Polars, Jupyter, scikit-learn, PyTorch, MLflow, Evidently, and Fairlearn can support attrition prediction, workforce forecasting, skills modelling, compensation analysis, employee segmentation, and model governance.
+Data orchestrator for machine learning, analytics, and ETL that enables asset-based workflows with built-in data quality lineage for trustworthy HR data engineering.
 
-Community projects: GitHub's HR Analytics and Employee Analytics ecosystems contain many specialized open projects for attrition analysis, employee performance, salary analytics, workforce diversity, recruiting efficiency, and interactive dashboards.
+### 🔹 [Jupyter Notebook](https://github.com/jupyter/notebook) [![GitHub stars](https://img.shields.io/github/stars/jupyter/notebook?style=social&color=white)](https://github.com/jupyter/notebook/stargazers)
 
-Many community projects exist for employee attrition prediction, workforce forecasting, diversity dashboards, salary analytics, performance analysis, attendance intelligence, recruitment analytics, promotion analysis, and employee retention modelling.
+Interactive web application for creating and sharing computational documents with live code, visualizations, and statistical models for reproducible workforce research.
 
-Frameworks for building custom systems: Combine Frappe HR, OrangeHRM, Horilla, or another open-source HRMS as the operational data source with Airbyte or Meltano for ingestion.
+### 🔹 [DataHub](https://github.com/datahub-project/datahub) [![GitHub stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers)
 
-Use PostgreSQL, DuckDB, or ClickHouse as the analytical data layer and dbt Core to create standardized workforce models for headcount, turnover, absenteeism, diversity, compensation, recruitment, performance, and learning.
+Extensible open-source metadata platform and data catalog built for modern data stacks, useful for governing People Analytics data assets and tracking end-to-end data lineage.
 
-The dedicated People Analytics Data Warehouse project can provide a useful reference architecture for structuring HR data into staging, intermediate, and KPI mart layers.
+### 🔹 [dbt Core](https://github.com/dbt-labs/dbt-core) [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)
 
-Build dashboards using Apache Superset, Metabase, Lightdash, or Grafana, and use Jupyter, pandas, Polars, and scikit-learn for deeper statistical and predictive workforce analysis.
+Open-source data transformation framework enabling analytics engineering workflows to build tested, version-controlled, and documented workforce KPI data marts from raw HRIS tables.
 
-For advanced governance, combine OpenMetadata or DataHub with Great Expectations to document data lineage, define trusted workforce metrics, and validate data quality.
+### 🔹 [Great Expectations](https://github.com/great-expectations/great_expectations) [![GitHub stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)
 
-This modular architecture can provide a transparent and self-hosted alternative to commercial People Analytics platforms. Commercial products may still offer more mature pre-built HR connectors, proprietary benchmarking datasets, embedded workforce intelligence, natural-language analytics, managed security, and enterprise implementation services.
+Data quality and validation framework that enforces data integrity checks on HRIS, ATS, and payroll datasets before they feed executive workforce dashboards.
 
-How to Contribute
+### 🔹 [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
 
-Fork the repo.
+Community-driven open-source search and analytics suite suitable for indexing employee skills profiles, internal job matching, analyzing survey text, and HR knowledge base search.
 
-Add/edit entries in README.md (follow existing format).
+### 🔹 [Lightdash](https://github.com/lightdash/lightdash) [![GitHub stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)
 
-Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+Open-source BI platform natively integrated with dbt semantic models, enabling HR and people teams to build self-service workforce charts without writing SQL.
 
-Submit a PR with a short explanation.
+### 🔹 [Evidently](https://github.com/evidentlyai/evidently) [![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)
 
-Star the repo if you find it useful!
+Open-source ML evaluation and monitoring library that detects data drift and performance degradation in predictive workforce models (e.g., turnover prediction, bias monitoring).
 
-Disclaimer
+### 🔹 [OpenMetadata](https://github.com/open-metadata/OpenMetadata) [![GitHub stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)
 
-This is a community-curated list — not exhaustive and not an endorsement.
+All-in-one open-source metadata platform providing data discovery, data lineage, metric governance, and data quality tracking for enterprise People Analytics teams.
 
-People Analytics involves sensitive employee and workforce data and should be implemented with appropriate privacy, security, governance, access-control, and legal safeguards.
+### 🔹 [Leantime](https://github.com/leantime/leantime) [![GitHub stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)
 
-Workforce metrics such as performance, attrition risk, engagement, productivity, diversity, and potential should not be treated as fully objective measures of individual employees.
+Open-source strategic project management system focused on human-centric productivity, goal alignment, OKR tracking, and team performance analytics.
 
-Predictive HR models may introduce bias or unfair outcomes if data, features, assumptions, or model outputs are not carefully evaluated.
+### 🔹 [Apache Pinot](https://github.com/apache/pinot) [![GitHub stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers)
 
-Organizations should establish appropriate human oversight before using People Analytics for employment, compensation, promotion, termination, or other consequential decisions.
+Real-time distributed OLAP datastore designed for low-latency analytical queries across massive employee event streams and real-time operational workforce metrics.
 
-Self-hosted open-source solutions require proper authentication, encryption, audit logging, data retention policies, backups, and access controls.
+### 🔹 [Countly Server](https://github.com/Countly/countly-server) [![GitHub stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)
 
-Many open-source projects listed here provide components for HR data management, analytics, BI, machine learning, or data engineering rather than complete turnkey replacements for enterprise People Analytics platforms.
+Open-source product and user analytics platform designed for tracking employee journey interactions and engagement across enterprise mobile and web applications.
 
-Made for HR leaders, people operations teams, workforce planners, data analysts, CHROs, organizational researchers, data engineers, and developers who care about transparent workforce intelligence.
+### 🔹 [Steampipe](https://github.com/turbot/steampipe) [![GitHub stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)
 
-Let's make People Analytics more open, ethical, privacy-conscious, data-driven, and accessible.
+Open-source zero-ETL engine to select and query APIs, cloud infrastructure, and HR identity providers using standard SQL for instant workforce identity and access analytics.
+
+### 🔹 [Apache NiFi](https://github.com/apache/nifi) [![GitHub stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)
+
+Easy-to-use, powerful open-source system to process and distribute data across disparate enterprise HR systems, on-premises payroll databases, and cloud analytics warehouses.
+
+### 🔹 [Rill](https://github.com/rilldata/rill) [![GitHub stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers)
+
+Fast, open-source operational BI tool that pairs with DuckDB and ClickHouse to provide ultra-fast, exploratory workforce dashboards and slice-and-dice people metrics.
+
+### 🔹 [Evidence](https://github.com/evidence-dev/evidence) [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)
+
+Open-source code-based BI framework for building version-controlled, markdown-driven workforce reports and interactive HR analytics dashboards.
+
+### 🔹 [Amundsen](https://github.com/amundsen-io/amundsen) [![GitHub stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social&color=white)](https://github.com/amundsen-io/amundsen/stargazers)
+
+Open-source data discovery and metadata engine created by Lyft that catalogs workforce datasets and makes employee data assets easily searchable for analytics teams.
+
+### 🔹 [Meltano](https://github.com/meltano/meltano) [![GitHub stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers)
+
+Open-source ELT orchestration platform built on Singer taps/targets, ideal for creating modular data pipelines that extract data from HR platforms into people data warehouses.
+
+### 🔹 [Frappe HR](https://github.com/frappe/hrms) [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
+
+Modern open-source HR and payroll management system for employee lifecycles, attendance, leaves, recruitment, performance appraisals, and structured workforce data collection.
+
+### 🔹 [Horilla](https://github.com/horilla-opensource/horilla) [![GitHub stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers)
+
+Modern open-source HR software suite covering employee management, recruitment, attendance, leaves, payroll, and organization hierarchy reporting.
+
+### 🔹 [Fairlearn](https://github.com/fairlearn/fairlearn) [![GitHub stars](https://img.shields.io/github/stars/fairlearn/fairlearn?style=social&color=white)](https://github.com/fairlearn/fairlearn/stargazers)
+
+Open-source Python toolkit designed to assess and improve the fairness of machine learning systems, critical for eliminating bias in predictive HR, compensation, and hiring models.
+
+### 🔹 [OrangeHRM Open Source](https://github.com/orangehrm/orangehrm) [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
+
+Long-standing open-source HR management system providing modular employee records, leave administration, time tracking, recruitment, and core HR data management.
+
+
+---
+
+## 🏗️ Recommended Architecture & Frameworks
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│                             MODULAR OPEN-SOURCE HR STACK                                 │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
+  📥 1. Operational Ingestion        ⚙️ 2. Storage & Transformation        📊 3. BI & Analytics
+ ┌───────────────────────────┐      ┌───────────────────────────┐      ┌───────────────────────────┐
+ │ • Frappe HR / ERPNext     │      │ • PostgreSQL / DuckDB     │      │ • Apache Superset         │
+ │ • OrangeHRM / Horilla     │ ───► │ • ClickHouse / Timescale  │ ───► │ • Metabase / Lightdash    │
+ │ • Airbyte / Meltano       │      │ • dbt Core (Semantic KPI) │      │ • Grafana / Evidence      │
+ └───────────────────────────┘      └───────────────────────────┘      └───────────────────────────┘
+                                                  │
+                                                  ▼
+                                    🧠 4. Predictive Intelligence
+                                   ┌───────────────────────────┐
+                                   │ • scikit-learn / PyTorch  │
+                                   │ • Pandas / Polars         │
+                                   │ • Fairlearn / Evidently   │
+                                   └───────────────────────────┘
+```
+
+1. 📥 **Operational HR Foundation**: Deploy **Frappe HR**, **Horilla**, or **OrangeHRM** as your primary open-source system of record for employee profiles, leaves, and attendance.
+2. 🔄 **Automated Data Ingestion**: Use **Airbyte** or **Meltano** to extract employee records, ATS candidates, payroll cycles, and engagement surveys on scheduled schedules.
+3. 💾 **Analytical Data Layer**: Store analytical datasets in **PostgreSQL**, **DuckDB**, or **ClickHouse**.
+4. 📐 **KPI Semantic Modeling**: Utilize **dbt Core** to build verified marts for headcount, voluntary turnover, absenteeism, and promotion parity.
+5. 📊 **Self-Service Visualizations**: Connect **Apache Superset**, **Metabase**, or **Lightdash** to deliver role-based dashboards to HR business partners and executive teams.
+6. 🤖 **Predictive HR & Bias Auditing**: Build turnover prediction and compensation models using **scikit-learn** and **pandas**, while safeguarding fairness using **Fairlearn** and tracking drift with **Evidently**.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! To contribute:
+
+1. 🍴 **Fork the repo** on GitHub.
+2. 📝 **Add or update entries** in `README.md` (ensure descriptions are concise and factual).
+3. 🏷️ **For SaaS entries**: Provide exact starting pricing, company size/valuation, and specific free tier / free trial limits.
+4. ⭐ **For Open-Source entries**: Add the official repository and social star badge linking to the stargazers page.
+5. 🚀 **Submit a Pull Request** with a brief summary of the addition.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-People-Analytics-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-People-Analytics-Platform&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer & Ethical People Analytics
+
+- 🔒 **Privacy & Security**: People Analytics handles sensitive employee records. Ensure compliance with GDPR, CCPA, and appropriate role-based access control (RBAC).
+- ⚖️ **Fairness & Bias Mitigation**: Predictive machine learning models must undergo rigorous fairness checks before influencing recruitment, performance evaluations, or compensation decisions.
+- 🤝 **Human in the Loop**: Analytical outputs should inform decision-making but never replace empathetic, accountable human leadership.
+
+---
+
+<div align="center">
+
+**[Awesome-People-Analytics-Platform](https://github.com/ishandutta2007/Awesome-People-Analytics-Platform)** • Maintained with ❤️ by the community.
+
+</div>
