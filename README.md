@@ -87,203 +87,203 @@ This repository tracks notable **SaaS/hosted platforms** and **open-source proje
 
 The open-source People Analytics ecosystem enables organizations to construct transparent, customizable, self-hosted, and privacy-compliant workforce intelligence architectures. Below is the curated collection of leading open-source repositories sorted strictly in descending order by **GitHub Star Count**:
 
-### 🔹 [PyTorch](https://github.com/pytorch/pytorch) [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social&color=white)](https://github.com/pytorch/pytorch/stargazers)
+### 🔹 [PyTorch](https://github.com/pytorch/pytorch) [![GitHub_Stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social&color=white)](https://github.com/pytorch/pytorch/stargazers)
 
 Open-source machine-learning framework suitable for deep learning, NLP, and predictive models involving workforce skills, talent embeddings, and organizational dynamics.
 
-### 🔹 [Grafana](https://github.com/grafana/grafana) [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
+### 🔹 [Grafana](https://github.com/grafana/grafana) [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
 
 Open-source visualization and metrics observability platform used to build interactive workforce trend dashboards, headcount monitors, and operational HR KPI walls.
 
-### 🔹 [Apache Superset](https://github.com/apache/superset) [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
+### 🔹 [Apache Superset](https://github.com/apache/superset) [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
 
 Modern, enterprise-ready business intelligence web application and visualization platform suitable for self-hosted People Analytics dashboards covering headcount, attrition, diversity, and recruiting metrics.
 
-### 🔹 [scikit-learn](https://github.com/scikit-learn/scikit-learn) [![GitHub stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers)
+### 🔹 [scikit-learn](https://github.com/scikit-learn/scikit-learn) [![GitHub_Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers)
 
 Core machine-learning library in Python suitable for employee attrition forecasting, workforce segmentation, clustering, retention modeling, and predictive HR analytics.
 
-### 🔹 [NocoDB](https://github.com/nocodb/nocodb) [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
+### 🔹 [NocoDB](https://github.com/nocodb/nocodb) [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
 
 Open-source smart spreadsheet-database alternative to Airtable, perfect for HR teams managing employee directories, headcount planning, recruitment pipelines, and custom people workflows.
 
-### 🔹 [Pandas](https://github.com/pandas-dev/pandas) [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers)
+### 🔹 [Pandas](https://github.com/pandas-dev/pandas) [![GitHub_Stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers)
 
 Foundational open-source Python library for tabular data manipulation, compensation modeling, turnover analysis, demographic slicing, and workforce reporting.
 
-### 🔹 [Apache Spark](https://github.com/apache/spark) [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)
+### 🔹 [Apache Spark](https://github.com/apache/spark) [![GitHub_Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)
 
 Unified engine for large-scale distributed data processing, ideal for enterprise-scale HR data lakes, longitudinal workforce modeling, and multi-source ETL pipelines.
 
-### 🔹 [ClickHouse](https://github.com/ClickHouse/ClickHouse) [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)
+### 🔹 [ClickHouse](https://github.com/ClickHouse/ClickHouse) [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)
 
 High-performance open-source columnar analytical database designed for real-time aggregation across billions of employee event logs, time-tracking records, and historical HR metrics.
 
-### 🔹 [Metabase](https://github.com/metabase/metabase) [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)
+### 🔹 [Metabase](https://github.com/metabase/metabase) [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)
 
 User-friendly open-source business intelligence and self-service analytics tool that connects directly to HR databases/warehouses for zero-code team reporting.
 
-### 🔹 [Apache Airflow](https://github.com/apache/airflow) [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
+### 🔹 [Apache Airflow](https://github.com/apache/airflow) [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
 
 Open-source platform to programmatically author, schedule, and monitor complex HR data ingestion pipelines, automated ETL workflows, and KPI mart refreshes.
 
-### 🔹 [Appsmith](https://github.com/appsmithorg/appsmith) [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)
+### 🔹 [Appsmith](https://github.com/appsmithorg/appsmith) [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)
 
 Open-source low-code framework to build internal HR apps, custom people analytics portals, compensation review tools, and employee directory management consoles.
 
-### 🔹 [Polars](https://github.com/pola-rs/polars) [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)
+### 🔹 [Polars](https://github.com/pola-rs/polars) [![GitHub_Stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers)
 
 Blazing-fast open-source DataFrame library implemented in Rust, optimized for processing millions of employee event records, payroll datasets, and workforce transformations in seconds.
 
-### 🔹 [Apache Kafka](https://github.com/apache/kafka) [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
+### 🔹 [Apache Kafka](https://github.com/apache/kafka) [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
 
 Distributed event-streaming platform engineered for high-throughput, low-latency ingestion of real-time employee lifecycle events, system access logs, and HR events.
 
-### 🔹 [DuckDB](https://github.com/duckdb/duckdb) [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)
+### 🔹 [DuckDB](https://github.com/duckdb/duckdb) [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)
 
 High-performance, in-process analytical SQL database engine optimized for fast, local, reproducible People Analytics queries, embedded pipelines, and dbt models.
 
-### 🔹 [PostHog](https://github.com/PostHog/posthog) [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
+### 🔹 [PostHog](https://github.com/PostHog/posthog) [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
 
 Open-source product and user analytics platform that tracks employee interactions across internal HR tools, employee self-service portals, intranets, and onboarding software.
 
-### 🔹 [Redash](https://github.com/getredash/redash) [![GitHub stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)
+### 🔹 [Redash](https://github.com/getredash/redash) [![GitHub_Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)
 
 Open-source data visualization and SQL query platform enabling HR analysts to query various databases, build dashboards, and share people metrics across teams.
 
-### 🔹 [Apache Flink](https://github.com/apache/flink) [![GitHub stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers)
+### 🔹 [Apache Flink](https://github.com/apache/flink) [![GitHub_Stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers)
 
 Open-source stream-processing framework for stateful computations over real-time workforce event streams, time-tracking events, and continuous operational analytics.
 
-### 🔹 [Budibase](https://github.com/Budibase/budibase) [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)
+### 🔹 [Budibase](https://github.com/Budibase/budibase) [![GitHub_Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)
 
 Open-source low-code platform for creating internal workforce tools, employee self-service forms, approval workflows, and performance tracking interfaces.
 
-### 🔹 [Typebot](https://github.com/baptisteArno/typebot.io) [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)
+### 🔹 [Typebot](https://github.com/baptisteArno/typebot.io) [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)
 
 Open-source conversational form builder ideal for engaging employee onboarding surveys, pulse feedback collection, HR triage bots, and exit interview forms.
 
-### 🔹 [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
+### 🔹 [ERPNext](https://github.com/frappe/erpnext) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 
 Comprehensive open-source ERP system featuring built-in HR, payroll, attendance, leave management, and expense tracking modules to power people operations.
 
-### 🔹 [Matomo](https://github.com/matomo-org/matomo) [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)
+### 🔹 [Matomo](https://github.com/matomo-org/matomo) [![GitHub_Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)
 
 Privacy-first open-source web analytics platform suitable for measuring employee adoption, portal utilization, and documentation engagement on internal company intranets.
 
-### 🔹 [MLflow](https://github.com/mlflow/mlflow) [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)
+### 🔹 [MLflow](https://github.com/mlflow/mlflow) [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)
 
 Open-source machine learning lifecycle platform useful for tracking, evaluating, versioning, and deploying workforce prediction models like attrition risk and promotion readiness.
 
-### 🔹 [TimescaleDB](https://github.com/timescale/timescaledb) [![GitHub stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers)
+### 🔹 [TimescaleDB](https://github.com/timescale/timescaledb) [![GitHub_Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers)
 
 Open-source time-series PostgreSQL database engineered to track and analyze historical workforce metrics, headcount changes, absenteeism rates, and workforce capacity trends over time.
 
-### 🔹 [Airbyte](https://github.com/airbytehq/airbyte) [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)
+### 🔹 [Airbyte](https://github.com/airbytehq/airbyte) [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)
 
 Open-source ELT data integration platform with an extensive catalog of connectors to sync workforce data from HRIS, ATS, payroll APIs, and databases into modern data warehouses.
 
-### 🔹 [Prefect](https://github.com/PrefectHQ/prefect) [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)
+### 🔹 [Prefect](https://github.com/PrefectHQ/prefect) [![GitHub_Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)
 
 Modern Python workflow orchestration framework for automating HR data extraction, ML-driven attrition predictions, and scheduled workforce reporting.
 
-### 🔹 [PostgreSQL](https://github.com/postgres/postgres) [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers)
+### 🔹 [PostgreSQL](https://github.com/postgres/postgres) [![GitHub_Stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers)
 
 Powerful, open-source object-relational database system serving as a reliable transactional and relational foundation for employee records, organizational trees, and compensation tables.
 
-### 🔹 [NetworkX](https://github.com/networkx/networkx) [![GitHub stars](https://img.shields.io/github/stars/networkx/networkx?style=social&color=white)](https://github.com/networkx/networkx/stargazers)
+### 🔹 [NetworkX](https://github.com/networkx/networkx) [![GitHub_Stars](https://img.shields.io/github/stars/networkx/networkx?style=social&color=white)](https://github.com/networkx/networkx/stargazers)
 
 Python library for the creation, manipulation, and study of complex networks, widely used for Organizational Network Analysis (ONA) to assess employee collaboration and influence.
 
-### 🔹 [Formbricks](https://github.com/formbricks/formbricks) [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
+### 🔹 [Formbricks](https://github.com/formbricks/formbricks) [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
 
 Open-source survey and experience management suite suitable for running privacy-compliant employee Net Promoter Score (eNPS), satisfaction surveys, and pulse feedback loops.
 
-### 🔹 [Dagster](https://github.com/dagster-io/dagster) [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)
+### 🔹 [Dagster](https://github.com/dagster-io/dagster) [![GitHub_Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)
 
 Data orchestrator for machine learning, analytics, and ETL that enables asset-based workflows with built-in data quality lineage for trustworthy HR data engineering.
 
-### 🔹 [Jupyter Notebook](https://github.com/jupyter/notebook) [![GitHub stars](https://img.shields.io/github/stars/jupyter/notebook?style=social&color=white)](https://github.com/jupyter/notebook/stargazers)
+### 🔹 [Jupyter Notebook](https://github.com/jupyter/notebook) [![GitHub_Stars](https://img.shields.io/github/stars/jupyter/notebook?style=social&color=white)](https://github.com/jupyter/notebook/stargazers)
 
 Interactive web application for creating and sharing computational documents with live code, visualizations, and statistical models for reproducible workforce research.
 
-### 🔹 [DataHub](https://github.com/datahub-project/datahub) [![GitHub stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers)
+### 🔹 [DataHub](https://github.com/datahub-project/datahub) [![GitHub_Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers)
 
 Extensible open-source metadata platform and data catalog built for modern data stacks, useful for governing People Analytics data assets and tracking end-to-end data lineage.
 
-### 🔹 [dbt Core](https://github.com/dbt-labs/dbt-core) [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)
+### 🔹 [dbt Core](https://github.com/dbt-labs/dbt-core) [![GitHub_Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)
 
 Open-source data transformation framework enabling analytics engineering workflows to build tested, version-controlled, and documented workforce KPI data marts from raw HRIS tables.
 
-### 🔹 [Great Expectations](https://github.com/great-expectations/great_expectations) [![GitHub stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)
+### 🔹 [Great Expectations](https://github.com/great-expectations/great_expectations) [![GitHub_Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)
 
 Data quality and validation framework that enforces data integrity checks on HRIS, ATS, and payroll datasets before they feed executive workforce dashboards.
 
-### 🔹 [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
+### 🔹 [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
 
 Community-driven open-source search and analytics suite suitable for indexing employee skills profiles, internal job matching, analyzing survey text, and HR knowledge base search.
 
-### 🔹 [Lightdash](https://github.com/lightdash/lightdash) [![GitHub stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)
+### 🔹 [Lightdash](https://github.com/lightdash/lightdash) [![GitHub_Stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)
 
 Open-source BI platform natively integrated with dbt semantic models, enabling HR and people teams to build self-service workforce charts without writing SQL.
 
-### 🔹 [Evidently](https://github.com/evidentlyai/evidently) [![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)
+### 🔹 [Evidently](https://github.com/evidentlyai/evidently) [![GitHub_Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)
 
 Open-source ML evaluation and monitoring library that detects data drift and performance degradation in predictive workforce models (e.g., turnover prediction, bias monitoring).
 
-### 🔹 [OpenMetadata](https://github.com/open-metadata/OpenMetadata) [![GitHub stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)
+### 🔹 [OpenMetadata](https://github.com/open-metadata/OpenMetadata) [![GitHub_Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers)
 
 All-in-one open-source metadata platform providing data discovery, data lineage, metric governance, and data quality tracking for enterprise People Analytics teams.
 
-### 🔹 [Leantime](https://github.com/leantime/leantime) [![GitHub stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)
+### 🔹 [Leantime](https://github.com/leantime/leantime) [![GitHub_Stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)
 
 Open-source strategic project management system focused on human-centric productivity, goal alignment, OKR tracking, and team performance analytics.
 
-### 🔹 [Apache Pinot](https://github.com/apache/pinot) [![GitHub stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers)
+### 🔹 [Apache Pinot](https://github.com/apache/pinot) [![GitHub_Stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers)
 
 Real-time distributed OLAP datastore designed for low-latency analytical queries across massive employee event streams and real-time operational workforce metrics.
 
-### 🔹 [Countly Server](https://github.com/Countly/countly-server) [![GitHub stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)
+### 🔹 [Countly Server](https://github.com/Countly/countly-server) [![GitHub_Stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)
 
 Open-source product and user analytics platform designed for tracking employee journey interactions and engagement across enterprise mobile and web applications.
 
-### 🔹 [Steampipe](https://github.com/turbot/steampipe) [![GitHub stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)
+### 🔹 [Steampipe](https://github.com/turbot/steampipe) [![GitHub_Stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)
 
 Open-source zero-ETL engine to select and query APIs, cloud infrastructure, and HR identity providers using standard SQL for instant workforce identity and access analytics.
 
-### 🔹 [Apache NiFi](https://github.com/apache/nifi) [![GitHub stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)
+### 🔹 [Apache NiFi](https://github.com/apache/nifi) [![GitHub_Stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)
 
 Easy-to-use, powerful open-source system to process and distribute data across disparate enterprise HR systems, on-premises payroll databases, and cloud analytics warehouses.
 
-### 🔹 [Rill](https://github.com/rilldata/rill) [![GitHub stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers)
+### 🔹 [Rill](https://github.com/rilldata/rill) [![GitHub_Stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers)
 
 Fast, open-source operational BI tool that pairs with DuckDB and ClickHouse to provide ultra-fast, exploratory workforce dashboards and slice-and-dice people metrics.
 
-### 🔹 [Evidence](https://github.com/evidence-dev/evidence) [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)
+### 🔹 [Evidence](https://github.com/evidence-dev/evidence) [![GitHub_Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)
 
 Open-source code-based BI framework for building version-controlled, markdown-driven workforce reports and interactive HR analytics dashboards.
 
-### 🔹 [Amundsen](https://github.com/amundsen-io/amundsen) [![GitHub stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social&color=white)](https://github.com/amundsen-io/amundsen/stargazers)
+### 🔹 [Amundsen](https://github.com/amundsen-io/amundsen) [![GitHub_Stars](https://img.shields.io/github/stars/amundsen-io/amundsen?style=social&color=white)](https://github.com/amundsen-io/amundsen/stargazers)
 
 Open-source data discovery and metadata engine created by Lyft that catalogs workforce datasets and makes employee data assets easily searchable for analytics teams.
 
-### 🔹 [Meltano](https://github.com/meltano/meltano) [![GitHub stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers)
+### 🔹 [Meltano](https://github.com/meltano/meltano) [![GitHub_Stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers)
 
 Open-source ELT orchestration platform built on Singer taps/targets, ideal for creating modular data pipelines that extract data from HR platforms into people data warehouses.
 
-### 🔹 [Frappe HR](https://github.com/frappe/hrms) [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
+### 🔹 [Frappe HR](https://github.com/frappe/hrms) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)
 
 Modern open-source HR and payroll management system for employee lifecycles, attendance, leaves, recruitment, performance appraisals, and structured workforce data collection.
 
-### 🔹 [Horilla](https://github.com/horilla-opensource/horilla) [![GitHub stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers)
+### 🔹 [Horilla](https://github.com/horilla-opensource/horilla) [![GitHub_Stars](https://img.shields.io/github/stars/horilla-opensource/horilla?style=social&color=white)](https://github.com/horilla-opensource/horilla/stargazers)
 
 Modern open-source HR software suite covering employee management, recruitment, attendance, leaves, payroll, and organization hierarchy reporting.
 
-### 🔹 [Fairlearn](https://github.com/fairlearn/fairlearn) [![GitHub stars](https://img.shields.io/github/stars/fairlearn/fairlearn?style=social&color=white)](https://github.com/fairlearn/fairlearn/stargazers)
+### 🔹 [Fairlearn](https://github.com/fairlearn/fairlearn) [![GitHub_Stars](https://img.shields.io/github/stars/fairlearn/fairlearn?style=social&color=white)](https://github.com/fairlearn/fairlearn/stargazers)
 
 Open-source Python toolkit designed to assess and improve the fairness of machine learning systems, critical for eliminating bias in predictive HR, compensation, and hiring models.
 
-### 🔹 [OrangeHRM Open Source](https://github.com/orangehrm/orangehrm) [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
+### 🔹 [OrangeHRM Open Source](https://github.com/orangehrm/orangehrm) [![GitHub_Stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)
 
 Long-standing open-source HR management system providing modular employee records, leave administration, time tracking, recruitment, and core HR data management.
 
