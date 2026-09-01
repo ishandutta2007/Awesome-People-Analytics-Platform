@@ -29,67 +29,30 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Visier
-Enterprise people analytics platform that integrates workforce and business data to provide standardized workforce metrics, workforce intelligence, visual analytics, and answers to complex people questions.
-
-One Model
-People analytics and workforce data platform focused on integrating HR data from multiple systems into a unified workforce data model, analytics environment, and reporting ecosystem.
-
-ChartHop
-People operations and workforce planning platform combining organizational charts, headcount planning, compensation data, employee information, and people analytics.
-
-Crunchr
-Workforce analytics platform focused on workforce intelligence, HR reporting, diversity analytics, talent insights, and strategic people decision-making.
-
-Sage People
-Cloud HR and people management platform with workforce reporting and analytics capabilities for employee data, workforce trends, and HR operations.
-
-Workday People Analytics
-Workforce analytics capabilities integrated with Workday's HR and finance ecosystem, supporting workforce reporting, organizational analysis, talent insights, and people decision-making.
-
-Microsoft Viva Insights
-Workplace analytics platform providing organizational and work-pattern insights based on aggregated collaboration data, supporting productivity, wellbeing, and organizational effectiveness analysis.
-
-HiBob
-Modern HR platform with people analytics and workforce reporting capabilities covering employee information, organizational metrics, engagement, compensation, and workforce trends.
-
-Tableau
-Business intelligence and analytics platform widely used to build custom HR and people analytics dashboards for workforce, diversity, compensation, recruitment, and retention analysis.
-
-Qualtrics Employee Experience
-Employee experience and people analytics platform supporting employee surveys, engagement measurement, feedback analytics, experience management, and workforce insights.
-
-SAP SuccessFactors Workforce Analytics
-Enterprise workforce analytics capabilities integrated with SAP human capital management systems for workforce planning, reporting, talent analytics, and strategic HR analysis.
-
-Oracle Fusion HCM Analytics
-Cloud HCM analytics ecosystem providing workforce reporting, talent analytics, workforce trends, and HR intelligence.
-
-UKG Pro
-Human capital management platform with workforce analytics and reporting capabilities across employee data, workforce management, payroll, attendance, and talent processes.
-
-ADP DataCloud
-Workforce data and analytics ecosystem using aggregated workforce information and benchmarking capabilities to support HR decision-making and labor-market insights.
-
-Culture Amp
-Employee experience platform focused on engagement, employee feedback, performance, retention, and people analytics.
-
-Lattice
-People success platform providing performance management, engagement measurement, compensation workflows, HR analytics, and people insights.
-
-Betterworks
-Performance management and people enablement platform supporting goals, feedback, performance insights, and workforce analytics.
-
-Eightfold AI
-Talent intelligence platform using AI for workforce skills, talent mobility, recruiting, workforce planning, and people intelligence.
-
-Gloat
-Talent marketplace and workforce intelligence platform focused on skills visibility, internal mobility, talent deployment, and workforce analytics.
-
-Fuel50
-Talent marketplace and career intelligence platform supporting workforce skills, internal mobility, career development, and talent analytics.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Visier** | Enterprise people analytics platform that integrates workforce and business data to provide standardized workforce metrics, workforce intelligence, visual analytics, and answers to complex people questions. | Starts at **$4.50 – $5.00 / employee / month** (billed annually; minimum contract typically starts at ~$25,000/year for enterprise deployment). | **30-day free trial** for the Visier Alpine platform sandbox (includes pre-built content, 1 workspace, and sample or custom data upload; no credit card required; no permanent free tier). |
+| **One Model** | People analytics and workforce data platform focused on integrating HR data from multiple systems into a unified workforce data model, analytics environment, and reporting ecosystem. | Starts at **$3.00 – $6.00 / employee / month** (Essentials edition typically starts at ~$30,000 – $45,000/year for mid-market up to 2,500 employees). | **14 to 30-day guided POC / sandbox trial** during enterprise evaluation (limited to sample data and up to 5 administrative seats; no permanent free tier). |
+| **ChartHop** | People operations and workforce planning platform combining organizational charts, headcount planning, compensation data, employee information, and people analytics. | Starts at **$3.50 / employee / month** for ChartHop Basic/Charts (Headcount Planning and Compensation modules start at ~$8.00 – $10.00 / employee / month with ~$9,000 annual minimum). | **14-day free trial** with full platform access; ChartHop Basic offers a **free forever tier** for small teams up to **35 employees** (org charts, basic profiles, and direct reporting structure). |
+| **Crunchr** | Workforce analytics platform focused on workforce intelligence, HR reporting, diversity analytics, talent insights, and strategic people decision-making. | Starts at **$4.49 / user / month** for small business tiers (People Analytics enterprise tier starts at ~$2.50 – $4.50 / employee / month billed annually). | **7-day free trial** for standard business modules / **14-day guided analytics sandbox** (limited to sample employee datasets and up to 3 test users; no permanent free tier). |
+| **Sage People** | Cloud HR and people management platform with workforce reporting and analytics capabilities for employee data, workforce trends, and HR operations. | Starts at **$6.50 / employee / month** for Sage HR core module (Sage People enterprise edition starts at ~$12.00 / employee / month with implementation starting at ~$25,000 – $35,000). | **30-day free trial** for Sage HR cloud module (full access to core HR, leave management, and employee records without credit card; no permanent free tier). |
+| **Workday People Analytics** | Workforce analytics capabilities integrated with Workday's HR and finance ecosystem, supporting workforce reporting, organizational analysis, talent insights, and people decision-making. | Starts at **$34.00 – $42.00 / employee / month** (FSE worker basis as part of Workday HCM subscription; enterprise annual contracts typically start at $100,000+/year). | **30-day free trial** for Workday Adaptive Planning sandbox environment (includes sample financial and workforce data modeling; core People Analytics evaluated via guided interactive tours; no permanent free tier). |
+| **Microsoft Viva Insights** | Workplace analytics platform providing organizational and work-pattern insights based on aggregated collaboration data, supporting productivity, wellbeing, and organizational effectiveness analysis. | **$4.00 / user / month** for Viva Insights standalone (full Microsoft Viva Suite available at **$12.00 / user / month** with annual commitment). | **Free forever tier**: Personal Insights is included at $0 with Microsoft 365 / Office 365 enterprise licenses (personal wellbeing, focus time, quiet hours). Premium features offer a **30-day free trial** (up to 25 user licenses via M365 admin center). |
+| **HiBob** | Modern HR platform with people analytics and workforce reporting capabilities covering employee information, organizational metrics, engagement, compensation, and workforce trends. | Starts at **$8.00 – $10.00 / employee / month** (base Bob platform with analytics; minimum annual contract starting around $3,000 – $5,000/year). | **14-day interactive guided trial tour** and sandbox environment upon request (access to core HR analytics, sample headcount reports, and employee profile workflows; no permanent free tier). |
+| **Tableau** | Business intelligence and analytics platform widely used to build custom HR and people analytics dashboards for workforce, diversity, compensation, recruitment, and retention analysis. | Starts at **$15.00 / user / month** for Tableau Viewer ($180/year billed annually); Tableau Explorer at **$42.00 / user / month**; Tableau Creator at **$75.00 / user / month**. | **Free forever tier**: Tableau Public is 100% free with limits of **10 GB storage** and **10 million rows per dataset** (publicly viewable dashboards). Commercial Tableau Cloud offers a **14-day free trial** with full Creator features (no credit card required). |
+| **Qualtrics Employee Experience** | Employee experience and people analytics platform supporting employee surveys, engagement measurement, feedback analytics, experience management, and workforce insights. | Starts at **$125.00 / month** ($1,500/year) for individual research seats (EmployeeXM enterprise platform starts at ~$5.00 / employee / month or ~$25,000/year base contract). | **Free forever tier** with limits of **3 active surveys**, **100 responses per survey**, and **8 question types**. Paid research/XM tiers offer a **30-day free trial** with up to 1,000 responses and advanced reporting templates. |
+| **SAP SuccessFactors Workforce Analytics** | Enterprise workforce analytics capabilities integrated with SAP human capital management systems for workforce planning, reporting, talent analytics, and strategic HR analysis. | Starts at **$6.00 – $12.00 / employee / month** for core HR/analytics bundles (full enterprise suite spans $25.00 – $38.00 / employee / month). | **30-day free trial** for SAP SuccessFactors HCM suite (shared cloud environment pre-populated with workforce sample data and guided scenario workflows; no permanent free tier). |
+| **Oracle Fusion HCM Analytics** | Cloud HCM analytics ecosystem providing workforce reporting, talent analytics, workforce trends, and HR intelligence. | Starts at **$15.00 / user / month** as Fusion Data Intelligence add-on (HCM Cloud core starting at ~$15.00 – $38.00 / employee / month; Creator analytics at ~$300 / user / month). | **30-day free trial** via Oracle Cloud Free Tier with **$300 in free cloud credits** and access to Always Free cloud analytics database services (no permanent free tier for HCM Analytics). |
+| **UKG Pro** | Human capital management platform with workforce analytics and reporting capabilities across employee data, workforce management, payroll, attendance, and talent processes. | Starts at **$26.00 – $41.00 / employee / month** (bundled with core HCM, payroll, and workforce analytics; minimum annual contracts apply). | **14-day guided evaluation sandbox** provided during vendor proof-of-concept (includes sample HR data and pre-built compliance/retention dashboards; no permanent free tier). |
+| **ADP DataCloud** | Workforce data and analytics ecosystem using aggregated workforce information and benchmarking capabilities to support HR decision-making and labor-market insights. | Starts at **$10.00 – $20.00 / employee / month** (included in ADP Workforce Now mid-tier packages; executive benchmarking add-ons start at ~$3.00 – $5.00 / employee / month). | **30-day interactive self-guided demo environment** with preloaded compensation and turnover benchmark data across 30M+ employee records (no permanent free tier). |
+| **Culture Amp** | Employee experience platform focused on engagement, employee feedback, performance, retention, and people analytics. | Starts at **$4.00 – $4.50 / employee / month** for single module (e.g., Engage or Perform; minimum annual contract of ~$4,500/year; 3-module bundle at ~$11.00 – $14.00 / employee / month). | **14 to 30-day pilot program** for enterprise evaluations (enables running 1 test pulse survey with up to 50 employees and generating sample engagement reports; no permanent free tier). |
+| **Lattice** | People success platform providing performance management, engagement measurement, compensation workflows, HR analytics, and people insights. | Starts at **$8.00 / seat / month** for Goals/OKRs or **$11.00 / seat / month** for Performance & Analytics (modules bundle at ~$19.00 – $25.00 / seat / month; minimum annual contract of $4,000/year). | **14-day interactive test workspace** and guided pilot sandbox upon sales request (includes sample review cycles, 1-on-1 meeting templates, and people analytics dashboards; no permanent free tier). |
+| **Betterworks** | Performance management and people enablement platform supporting goals, feedback, performance insights, and workforce analytics. | Starts at **$8.00 / user / month** for Goals & Performance (billed annually; comprehensive Enterprise suite starts at ~$15.00 / user / month). | **14-day pilot sandbox** available upon consultation (supports up to 25 test users, OKR tracking, continuous feedback loops, and basic manager analytics; no permanent free tier). |
+| **Eightfold AI** | Talent intelligence platform using AI for workforce skills, talent mobility, recruiting, workforce planning, and people intelligence. | Starts at **$7.00 – $10.00 / employee / month** (for mid-to-large enterprises with 1,000+ employees; annual minimum contract typically ~$50,000+/year). | **30-day proof-of-concept (POC) sandbox** during enterprise evaluation (allows ingestion of sample employee profiles to test AI skills matching and career pathing algorithms; no permanent free tier). |
+| **Gloat** | Talent marketplace and workforce intelligence platform focused on skills visibility, internal mobility, talent deployment, and workforce analytics. | Starts at **$6.00 – $8.00 / employee / month** (billed annually for enterprise workforce deployments; typical minimum commitment ~$40,000 – $60,000/year). | **30-day structured proof-of-concept (POC) pilot** (includes skills ontology setup for a test department of up to 100 employees and internal opportunity matching; no permanent free tier). |
+| **Fuel50** | Talent marketplace and career intelligence platform supporting workforce skills, internal mobility, career development, and talent analytics. | Starts at **$4.50 – $7.00 / employee / month** (billed annually; scales based on employee volume with typical enterprise entry contracts at ~$30,000/year). | **30-day sandbox pilot** during sales evaluation (includes sample career architecture mapping, benchmarking tools, and career pathway simulations for up to 50 users; no permanent free tier). |
 
 Open-Source GitHub Projects
 
